@@ -23,5 +23,5 @@ steps:
   inputs:
     azureSubscription: 'DevopsToAzure'
     appType: 'webAppLinux'
-    appName: 'cloudhandsdotnet'
+    appName: 'cloudhands-dotnet'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
